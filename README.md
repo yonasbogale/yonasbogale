@@ -54,7 +54,7 @@ I'm yonas bogale, App & full-stack developer.<br>🌱 Currently, building beauti
 
 
 
-[![Muhammad Fiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadfiaz&theme=tokyonight)](https://github.com/muhammad-fiaz/)
+[![Muhammad Fiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yonasbogale&theme=tokyonight)](https://github.com/yonasbogale/)
 </div>
 <img src="https://github.com/yonasbogale/yonasbogale/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
