@@ -46,5 +46,18 @@ I'm yonas bogale, App & full-stack developer.<br>🌱 Currently, building beauti
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yonasbogale&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+
+
+<h2> <strong> 👨‍💻 My Works Stats </strong></h2>
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+  <br>
+
+
+
+[![Muhammad Fiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadfiaz&theme=tokyonight)](https://github.com/muhammad-fiaz/)
+</div>
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=yonasbogale&icon=0&color=2)](https://visitcount.itsvg.in)
+
